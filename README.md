@@ -34,5 +34,6 @@ Install the following dependencies if not installed in the environment before us
    * pandas
    * seaborn
    * nltk
-   * torch
    * numpy
+   * torch
+
