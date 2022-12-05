@@ -24,6 +24,8 @@ Dataset files for path variables should be replaced are as follows
 
 
 ### Dependencies
+
+Install the following dependencies if not installed in the environment before using, **!pip install**
    * Python 3.x
    * transformers
    * scikit-learn 
@@ -33,3 +35,4 @@ Dataset files for path variables should be replaced are as follows
    * seaborn
    * nltk
    * torch
+   * numpy
