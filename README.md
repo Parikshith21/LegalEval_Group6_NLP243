@@ -24,12 +24,12 @@ Dataset files for path variables should be replaced are as follows
 
 
 ###Dependencies
-   Python 3.x
-   transformers
-   scikit-learn 
-   scipy 
-   matplotlib
-   pandas
-   seaborn
-   nltk
-   torch
+   * Python 3.x
+   * transformers
+   * scikit-learn 
+   * scipy 
+   * matplotlib
+   * pandas
+   * seaborn
+   * nltk
+   * torch
