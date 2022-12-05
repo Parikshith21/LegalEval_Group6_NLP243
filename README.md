@@ -21,3 +21,15 @@ Dataset files for path variables should be replaced are as follows
     
 **After changing the paths or downloading the daatsets and changing the paths as per local the notebooks can be executed.**
 #### For Accuracy graphs, Loss graphs, Classification Report and Confusion Matrix can refer the folder /Accracy_Loss_Matrix_Report_Images
+
+
+###Dependencies
+   Python 3.x
+   transformers
+   scikit-learn 
+   scipy 
+   matplotlib
+   pandas
+   seaborn
+   nltk
+   torch
